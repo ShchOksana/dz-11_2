@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Use automation for dz-9 (Person)">
+    <test name="Person smoke">
+                <packages>
+                    <package name="person"/>
+                </packages>
+    </test>
+</suite>
